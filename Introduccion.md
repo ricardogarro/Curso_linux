@@ -1,4 +1,4 @@
-# 📚 Introducción práctica a Linux usando contenedores
+# Introducción práctica a Linux usando contenedores
 
 ## 1. Objetivo de la clase
 
